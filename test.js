@@ -1,3 +1,3 @@
 import test from 'ava'
 
-test('works', t => t.pass())
+test('test.js', t => t.pass())
