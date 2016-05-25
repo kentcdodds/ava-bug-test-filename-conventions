@@ -1,0 +1,16 @@
+{
+  "name": "ava-bug-test-filename-conventions",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "0.15.0"
+  }
+}
